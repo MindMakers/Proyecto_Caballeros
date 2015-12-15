@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<escena>
+  <dialogo id ="1">
+
+     <personaje>
+      <nombre>
+        Darth Jorge
+      </nombre>
+      <linea>
+        Tengo algo que contarte joven aprendiz
+      </linea>
+     </personaje>
+
+     <personaje>
+      <nombre>
+        Arquero Aguilera
+      </nombre>
+      <linea>
+        Digame maestro
+      </linea>
+     </personaje>
+     <personaje>
+      <nombre>
+        Darth Jorge
+      </nombre>
+      <linea>
+        Creo que deberías dejar de usar ese puto arco siempre huevonl
+      </linea>
+     </personaje>
+     <personaje>
+      <nombre>
+        Arquero Aguilera
+      </nombre>
+      <linea>
+        ¡Maestro! si lo dejo de utilizar, el mundo se sumirá en el caos más profundo
+      </linea>
+     </personaje>
+     <personaje>
+      <nombre>
+        Darth Jorge
+      </nombre>
+      <linea>
+        No joven aprendiz. Debes ser fuerte y usar tu polla
+      </linea>
+     </personaje>
+     <personaje>
+      <nombre>
+        Arquero Aguilera
+      </nombre>
+      <linea>
+        Esto está tomando unos tintes muy gays Jorge
+      </linea>
+     </personaje>
+     <personaje>
+      <nombre>
+        Darth Jorge
+      </nombre>
+      <linea>
+        Me ciño al guión del huevon eteh. Encima estoy intentando hablal sin mi asento cubano característicol
+      </linea>
+     </personaje>
+     <personaje>
+      <nombre>
+        Arquero Aguilera
+      </nombre>
+      <linea>
+        ¡Tiremosle flechas!
+      </linea>
+     </personaje>
+
+
+  </dialogo>
+
+
+</escena>
